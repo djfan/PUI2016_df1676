@@ -10,4 +10,6 @@
 <br/>Create an alias <b>pui2016</b> which refers to <b>'cd $PUI2016'</b>
 <br/>Upload the screenshots as below:
 <br/> ![alt text](https://github.com/Alan-F/PUI2016_df1676/blob/master/HW1_df1676/screenshot_of_env_and%20_alias.png)
+<br/>[alt text][screenshot_of_env_and%20_alias]
 
+[screenshot_of_env_and%20_alias]:https://github.com/Alan-F/PUI2016_df1676/blob/master/HW1_df1676/screenshot_of_env_and%20_alias.png
