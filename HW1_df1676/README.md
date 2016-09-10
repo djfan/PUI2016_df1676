@@ -9,3 +9,5 @@
 <br/>Create an environmental variable **PUI2016** 
 that points to *'/home/cusp/df1676/PUI2016_df1676'*
 <br/>Create an alias <b>pui2016</b> which refers to *'cd $PUI2016'*
+
+<br/>2016-09-10
