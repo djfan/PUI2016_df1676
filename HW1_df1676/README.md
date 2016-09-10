@@ -9,5 +9,5 @@
 <br/>Create an environmental variable <b>PUI2016</b> that points to <b>'/home/cusp/df1676/PUI2016_df1676'</b>
 <br/>Create an alias <b>pui2016</b> which refers to <b>'cd $PUI2016'</b>
 <br/>Upload the screenshots as below:
-<br/> ![alt text](PUI2016_df1676/HW1_df1676/screenshot_of_env_and _alias.png)
+<br/> ![alt text](https://github.com/Alan-F/PUI2016_df1676/blob/master/HW1_df1676/screenshot_of_env_and%20_alias.png)
 
