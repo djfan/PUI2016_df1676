@@ -1,8 +1,8 @@
 #README.md
 
-Dongjie Fan
-NetID: df1676
-GitHub Account: Alan-F
+<br/>Dongjie Fan
+<br/>NetID: df1676
+<br/>GitHub Account: Alan-F
 
 
 #HW1_df1676
