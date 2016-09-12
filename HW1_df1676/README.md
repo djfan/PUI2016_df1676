@@ -11,3 +11,5 @@
 <br/>Upload the screenshots as below:
 <br/> ![screenshot](https://github.com/Alan-F/PUI2016_df1676/blob/master/HW1_df1676/screenshot_of_env_and%20_alias.png)
 <br/> ![screenshot](https://github.com/Alan-F/PUI2016_df1676/blob/master/HW1_df1676/screenshot_of_.bashrc.png)
+<br/>
+<br/>Assignment 3
