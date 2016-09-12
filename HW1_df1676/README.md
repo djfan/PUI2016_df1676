@@ -7,9 +7,12 @@ GitHub Account: Alan-F
 
 #HW1_df1676
 <br/>Assignment 1: Finish Lab 1
-<br/>Detailed info in Repo: 
-<br/><b>gittest_df1676</b>  https://github.com/Alan-F/gittest_df1676 
-<br/><b>gittest_zz1598</b>  https://github.com/Alan-F/gittest_zz1598 & https://github.com/kayzhou22/gittest_zz1598
+<br/>merge in my own repo:
+<br/>https://github.com/Alan-F/gittest_df1676 
+<br/>fork of my classmate's repo and the changes I made to his/her file in its history:
+<br/>https://github.com/Alan-F/gittest_zz1598 
+<br/>merge request on my classmate's repo:
+<br/>https://github.com/kayzhou22/gittest_zz1598
 <br/>
 <br/>Assignment 2: Set up your environment
 <br/>Log in <b>ssh -X -A -t df1676@gw.cusp.nyu.edu ssh -A -X compute </b>
