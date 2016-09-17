@@ -8,8 +8,8 @@ fi
 # User specific aliases and functions
 
 #compute
-export DFDATA='/gws/open/NYCOpenData/nycopendata/data/'
-export PUI2016='/home/cusp/df1676/PUI2016_df1676'
+export DFDATA='/gws/open/NYCOpenData/nycopendata/data'
+export PUI2016='/home/cusp/df1676/PUI2016_df1676/'
 alias pui2016='cd $PUI2016'
 
 #local
