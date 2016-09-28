@@ -18,6 +18,7 @@
 ## Assignment 2
 
 - Team work with Ziman Zhou.
+- we use 201502 data.
 - we focus on the problem: Young people are more likely to use citi bikes to commute on weekends than middle-age people. 
 - Set the downloading path by env variable PUIDATA. Curl the .zip file from DF. Then upzip the file in the working directory ./PUI2016\_df1676/HW3\_df1676
 - To be continued...
