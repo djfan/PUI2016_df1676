@@ -1,4 +1,4 @@
-# Citebike Review
+# Citibike Review
 
 * Null and alternative hypothesis are correctly formulated.
 
