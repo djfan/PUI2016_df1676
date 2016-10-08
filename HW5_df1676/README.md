@@ -1,3 +1,8 @@
+##HW5_df1676
+
+df1676
+Group with Ziman Zhou
+
 ### Assignment1
 
 In Assignment 1, I use one sample KS-test & Anderson-test to test whether the distributon of **age** data from citibike 201502 dataset is  from normal and exponential distribution.
