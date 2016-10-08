@@ -1,0 +1,68 @@
+### Assignment1
+
+In Assignment 1, I use one sample KS-test & Anderson-test to test whether the distributon of **age** data from citibike 201502 dataset is  from normal and exponential distribution.
+
+### Assignment2
+
+Follow the instruction and finish Assignment 2. Use *sklearn* package which is pre-installed in anaconda.
+
+### Assignment3
+
+https://github.com/Alan-F/PUI2016_df1676/blob/master/HW5_df1676/HW5_3_df1676.md
+
+#### experiment 1
+
+Null Hypothesis: 
+
+The average weight loss in test group (diets) is lower or equal to the average weight loss in control group (exercise).
+
+![equation](http://mathurl.com/zh2t2e9.png)
+
+Test:
+
+z-test / t-test
+
+#### experiment 2
+
+Null Hypothesis:
+
+The ratio of people who support Bill Clinton in US is lower or equal to 50%.
+
+![equation](http://mathurl.com/zg64vjt.png)
+
+
+Link:
+
+[one-sample test for binomial proportion](http://www.ucdmc.ucdavis.edu/ctsc/documents/Categorical.pdf)
+
+[One-sample inference: Categorical Data](http://web.as.uky.edu/statistics/users/pbreheny/580-f09/lectures/7.pdf)
+
+Test:
+
+z-test/t-test
+
+#### experiment 3
+
+Null Hypothesis:
+
+Using a nicotine patch and successfully quitting smocking are independent.
+![equation](http://mathurl.com/gu3xfz9.png)
+
+Link:
+
+[A chi-squared test can be used to attempt rejection of the null hypothesis that the data are independent.](https://en.wikipedia.org/wiki/Chi-squared_test)
+
+Test:
+
+Chi-square Test
+
+#### experiment 4
+
+Null Hypothesis:
+
+There is no difference of  average measurement IQ of children in 1,2,3,4 years old.
+![equation](http://mathurl.com/jzodzq5.png)
+
+Test:
+
+F-test
