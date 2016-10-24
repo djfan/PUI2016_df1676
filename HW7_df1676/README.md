@@ -1,3 +1,5 @@
+[If you can't see the plot in ipython notebook, please download the html file and open it in your local Chrome. Or you can use the script in ipython notebook  and run it in your computer locally (remember to update beke package.)]
+
 Dongjie Fan [df1676]
 
 This **Visualization** work is mainly about The Goal Differences of each Team in every Round in 2015-2016 Serie A. **X-axis** representes Round 1-38; **Y-axis** representes 20 Teams in Initial Ascending Order. **Hover** shows TeamName, Round and Goal Difference of the corresponding match. **Color** representes Goal Difference, from Dark Green (negative) to Dark Red (positive). The plot is base on **bokeh**, a pre-install package in Anaconda.
