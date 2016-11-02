@@ -1,4 +1,4 @@
-[If you can't see the plot in ipython notebook, please download the html file and open it in your local Chrome. Or you can use the script in ipython notebook  and run it in your computer locally (remember to update beke package.)]
+[If you can't see the plot in ipython notebook, please download the html file and open it in your local Chrome. Or you can use the script in ipython notebook  and run it in your computer locally (remember to update bokeh package.)]
 
 Dongjie Fan [df1676]
 
