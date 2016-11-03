@@ -1,4 +1,4 @@
- ![vsg247](/Users/Alan/Documents/CUSP 5003 PUI/PUI2016_df1676/HW8_df1676/vsg247.png)
+ ![vsg247](vsg247.png)
 
 This plot is made by Victor and it's easy to read and understand the purpose of this visualization work. With detailed data wrangling process and clear notes, this plot is strongly demonstrate the relationship between Income per capita and CO2 emissions per capita and per GDP.
 
