@@ -1,4 +1,4 @@
-![Electricity Meter Data for January 2012](/Users/Alan/Documents/CUSP 5003 PUI/PUI2016_df1676/HW8_df1676/Electricity Meter Data for January 2012.png)
+![Electricity Meter Data for January 2012](Electricity Meter Data for January 2012.png)
 
 The plot is made by Xinshi Zheng with clear title, x&y labels and legend. It shows the trends of Electricity Meter Data in different time periods of different days in January, 2012. If Xinshi can enlarge the fontsize of title, x&y labe and legend as well as change the legend to 2 or 3-column style, the plot would be better to read.
 
