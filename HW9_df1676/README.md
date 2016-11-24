@@ -5,4 +5,4 @@ HW9 Time Series
 2.Trends<br/>
 3.Periodic<br/>
 <br/>
-Teammate: Ziman Zhou
+Teammate: Ziman Zhou and Vishwajeet
